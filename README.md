@@ -60,4 +60,3 @@ All reported issues include supporting screenshots in the [images/](images/) dir
 - **OS**: Windows 11
 - **Browser**: Chrome 117
 - **Device**: Desktop
-- **Test Date**: November 2023
